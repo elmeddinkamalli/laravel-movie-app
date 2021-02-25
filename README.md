@@ -1,1 +1,1 @@
-Created by taking advantage of <a target="_blank href="https://www.youtube.com/channel/UCtb40EQj2inp8zuaQlLx3iQ">Andre Madarang</a>'s tutorial called "<a target="_blank" href="https://www.youtube.com/watch?v=9OKbmMqsREc&list=PLEhEHUEU3x5pYTjZze3fhYMB4Nl_WOHI4">Laravel Movie App</a>".
+Created by taking advantage of <a target="_blank" href="https://www.youtube.com/channel/UCtb40EQj2inp8zuaQlLx3iQ">Andre Madarang</a>'s tutorial called "<a target="_blank" href="https://www.youtube.com/watch?v=9OKbmMqsREc&list=PLEhEHUEU3x5pYTjZze3fhYMB4Nl_WOHI4">Laravel Movie App</a>".
